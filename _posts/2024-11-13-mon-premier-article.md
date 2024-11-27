@@ -5,9 +5,10 @@ date: 2024-11-13 10:00:00 +0000
 categories: [blog]
 tags: [Jekyll, Chirpy, premier article]
 excerpt: "Ceci est mon premier post sur mon blog Chirpy."
+author: "Arianne"
 ---
 
- {% youtube "https://www.youtube.com/watch?v=vHUC3HWkJeM" %}
+ {% youtube "https://www.youtube.com/watch?v=4qCDxpXpPko" %}
 
 # Bienvenue sur mon blog Jekyll avec Chirpy
 Bienvenue sur mon tout premier post ! Ce site est construit avec Jekyll et le thème Chirpy.
