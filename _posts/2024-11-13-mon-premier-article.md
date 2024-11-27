@@ -7,7 +7,7 @@ tags: [Jekyll, Chirpy, premier article]
 excerpt: "Ceci est mon premier post sur mon blog Chirpy."
 ---
 
- {% youtube "https://youtu.be/-Mg2KjMJidY?si=rFsvzlmJZVe7lH_S" %}
+ {% youtube "https://www.youtube.com/watch?v=vHUC3HWkJeM" %}
 
 # Bienvenue sur mon blog Jekyll avec Chirpy
 Bienvenue sur mon tout premier post ! Ce site est construit avec Jekyll et le thème Chirpy.
