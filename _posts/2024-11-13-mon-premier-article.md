@@ -4,8 +4,7 @@ title: "Mon premier article"
 date: 2024-11-13 10:00:00 +0000
 categories: [blog]
 tags: [Jekyll, Chirpy, premier article]
-excerpt: "Ceci est mon premier post sur mon blog Chirpy."
-author: "Arianne"
+excerpt: "Présentation."
 ---
 
  {% youtube "https://www.youtube.com/watch?v=4qCDxpXpPko" %}
