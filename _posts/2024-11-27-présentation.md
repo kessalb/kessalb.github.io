@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Bienvenus sur "Derrière le Rideau"" 
-date: 2024-11-13 10:00:00 +0000
+title: "Bienvenus sur Derrière le Rideau" 
+date: 2024-11-27 10:00:00 +0000
 categories: [blog]
 tags: [Bienvenue]
-excerpt: "Présentation."
+excerpt: "Présentation"
 ---
 
 # Qui suis-je
@@ -20,6 +20,6 @@ Au-delà de l’enquête elle-même, je m’engage à protéger les personnes qu
 
 Je vous invite à suivre ce blog, à partager vos histoires, à être acteur du changement. Ensemble, nous pouvons faire en sorte que ces abus de pouvoir ne restent plus dans l’ombre.
 
-# Bienvenue dans l’enquête. Bienvenue dans "Derrière le Rideau".
+## Bienvenue dans l’enquête. Bienvenue dans "Derrière le Rideau".
 
 
