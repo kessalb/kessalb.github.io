@@ -20,6 +20,7 @@ Au-delà de l’enquête elle-même, je m’engage à protéger les personnes qu
 
 Je vous invite à suivre ce blog, à partager vos histoires, à être acteur du changement. Ensemble, nous pouvons faire en sorte que ces abus de pouvoir ne restent plus dans l’ombre.
 
-## Bienvenue dans l’enquête. Bienvenue dans "Derrière le Rideau".
+# Bienvenue dans l’enquête. 
+# Bienvenue sur "Derrière le Rideau".
 
 
