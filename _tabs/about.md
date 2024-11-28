@@ -1,3 +1,4 @@
+
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -14,5 +15,4 @@ Notre mission est de remettre en question les systèmes de pouvoir, d'influencer
 
 Arianne, journaliste d’investigation
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
